@@ -1,3 +1,10 @@
-[gd_scene format=3 uid="uid://bsggd7n2wq4cy"]
+[gd_scene load_steps=2 format=3 uid="uid://bsggd7n2wq4cy"]
+
+[ext_resource type="Texture2D" uid="uid://civ6pxj1frucu" path="res://assets/space-bg.png" id="1_kbj4v"]
 
 [node name="Game" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(611, 323)
+scale = Vector2(0.7, 0.7)
+texture = ExtResource("1_kbj4v")
