@@ -18,5 +18,5 @@ position = Vector2(587, 581)
 position = Vector2(815, 259)
 
 [node name="Gem2" parent="." instance=ExtResource("3_n8ndc")]
-position = Vector2(191, 135)
+position = Vector2(582, 172)
 speed = 150.0
